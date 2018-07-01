@@ -8,7 +8,7 @@ end
 
 guest_name="#{name}"
 party_name="Best Halloween Party Ever"
-date= "September 30,2023"
+date= "October 31"
 time="6:30p.m."
 host_name= "Sonali Sharma"
 

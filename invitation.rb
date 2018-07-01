@@ -9,8 +9,8 @@ end
 guest_name="#{name}"
 party_name="Best Halloween Party Ever"
 date= "October 31"
-time="6:30p.m."
-host_name= "Sonali Sharma"
+time="6pm."
+host_name= "Harry Potter"
 
 puts "Dear #{guest_name},
 You are cordially invited to my #{party_name} on #{date} at #{time}.   Please rsvp before #{date}.
